@@ -520,3 +520,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *"Empowering traders and investors with professional-grade analytics tools"*
 
+*"Note: This project uses simulated and publicly available sample data for learning and experimentation purposes."*
